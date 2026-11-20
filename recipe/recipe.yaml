@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "0.0.7"
+  version: "0.0.8"
 
 package:
   name: sigstore-models
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/s/sigstore-models/sigstore_models-${{ version }}.tar.gz
-  sha256: 9f3b909d0c9ab388f839b3a7dbfaab79c66aa8b479a2d95838a2bdad88c49651
+  sha256: ad465236b3620797dd41afb0f50b883392a5b684d8c667b4d32745fa170e6387
 
 build:
   number: 0
